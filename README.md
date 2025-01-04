@@ -40,7 +40,9 @@ git pull --force --allow-unrelated-histories
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/NightProxy/Light"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/NightProxy/Light"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://app.cyclic.sh/api/app/deploy/NightProxy/Light"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
-
+<a href="https://render.com/deploy?repo=https://github.com/karaageYUKI/Light-proxy">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 ## Where to ask for help
 > [!NOTE]
 > If you'd like to get links, support, or other deployment methods join our [Discord Server](https://discord.gg/7SCnPUM5S6) or open a discussion.
